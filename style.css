@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(124, 124, 143);
+}
+
+#aboutmehead{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 5px 5px 5px rgb(78, 18, 74);
+    color: rgb(24, 15, 40);
+}
+
+#myimg{
+    width: 260px;
+    border-radius: 50px;
+    float: left;
+    margin-top: 1px;
+    margin-left: 100px;
+    border: 1px solid rgb(152, 13, 13);
+}
+
+pre.info{
+    margin-top: 58px;
+    margin-left: 382px;
+    font-family: cursive;
+    font-size: medium;
+    color: rgb(24, 15, 40);
+}
+
+#abouthead{
+    margin-top: 250px;
+    margin-left: 42px;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+
+#abilitieshead{
+    margin-top: 45px;
+    margin-left: 42px;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+
+#about{
+    margin-top: 10px;
+    margin-left: 42px;
+    color: rgb(24, 15, 40);
+    font-family: cursive;
+}
+
+#abilities{
+    margin-top: 10px;
+    margin-left: 42px;
+    font-family: cursive;
+}
+
+form{
+    color: rgb(24, 15, 40);
+    text-align: center;
+    padding: 8px;
+    
+}
+
+input{
+    background-color: rgb(91, 175, 155);
+}
+
+#submit{
+ border: none;
+  color: rgb(24, 15, 40);
+  background-color: rgb(61, 115, 102);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+footer{
+    background-color: rgb(66, 66, 77);
+    text-align: center;
+    font-family: cursive;
+}
+
+label, input{
+    color: rgb(24, 15, 40);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
